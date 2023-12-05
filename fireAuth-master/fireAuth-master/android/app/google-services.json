@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "755830421950",
+    "project_id": "exauth-31b6d",
+    "storage_bucket": "exauth-31b6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755830421950:android:d8a5ba23c3a5444df0a1ef",
+        "android_client_info": {
+          "package_name": "com.example.fireauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiZ2uOA5_5F-h183prcW-Gm9dgbOcoSvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
